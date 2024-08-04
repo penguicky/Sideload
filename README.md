@@ -57,7 +57,7 @@ https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/202408
 6. Enter it in the "Reddit API Key" in the Apollo app settings
    (Apollo > Settings > General > Custom API)
 
-<img src="images/redditAPI.PNG">
+<img src="images/redditAPI.png">
 
 ## Imgur Settings
 **Apollo currently works without Imgur settings. Only required if you'll upload pics to your account.**
@@ -75,8 +75,8 @@ https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/202408
 4. After creating the app you'll get a client identifier "Client ID".
 5. Enter it in the "Imgur API Key" in the Apollo app settings.
    (Apollo > Settings > General > Custom API)
-   
-<img src="images/imgurAPI.PNG">
+
+<img src="images/imgurAPI.png">
 
 # From 
 
