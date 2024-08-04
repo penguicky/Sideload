@@ -64,13 +64,15 @@ https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/202408
 1. Sign into your reddit account (on desktop) and go here:  
     [https://api.imgur.com/oauth2/addclient](https://api.imgur.com/oauth2/addclient)
 2. Fill in the fields
+3. 
 	* Application name: Use whatever
 	* Authorization type: Choose `OAuth 2 authorization without a callback URL`
 	* Email: Use your email
 	* Description: Use whatever
-3. `submit`
-4. After creating the app you'll get a client identifier "Client ID".
-5. Enter it in the "Imgur API Key" in the Apollo app settings.
+
+4. `submit`
+5. After creating the app you'll get a client identifier "Client ID".
+6. Enter it in the "Imgur API Key" in the Apollo app settings.
    (Apollo > Settings > General > Custom API)
 
 # From 
