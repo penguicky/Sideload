@@ -30,6 +30,7 @@
 1. Connect device to Mac and allow Data Access
 2. Open Finder and Select your device (on the left side)
 3. Click under the device's name until UDID shows up
+<img src="images/UDID.png">
 4. Copy UDID and send it to me
 
 ## For Sideloading
