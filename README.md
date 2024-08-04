@@ -37,10 +37,10 @@
 
 ## Sideloading Apollo
 
-Browse to the below url on your device's browser and install:\
-**Only works if device's UDID is registered with me**
+On your device, browse to the Releases section (on the right) for Latest install URL or click below to be redirected:\
+**Only works if device's UDID is registered with me.**
 
-[https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/20240804232314401](https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/20240804232314401)
+[Laetst Signed Install URL](https://github.com/penguicky/Sideload/releases/latest)
 
 ## Reddit Settings
 
