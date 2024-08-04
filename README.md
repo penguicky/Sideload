@@ -79,8 +79,8 @@ https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/202408
 
 <img src="images/imgurAPI.png">
 
-# From 
+# Credits 
 
+https://github.com/Balackburn/Apollo
 https://github.com/JeffreyCA/Apollo-ImprovedCustomApi
-
 https://apolloapp.io/
