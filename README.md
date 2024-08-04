@@ -43,41 +43,39 @@ https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/202408
 
 1. Sign into your reddit account (on desktop) and go here:  
     [https://reddit.com/prefs/apps](https://reddit.com/prefs/apps)
-3. Click the `are you a developer? create an app...` button
-4. Fill in the fields
+2. Click the `are you a developer? create an app...` button
+3. Fill in the fields
 	* name: Use whatever
 	* Choose `Installed App`
 	* description: Use whatever
 	* about url: Use whatever
 	* redirect uri: **`apollo://reddit-oauth`**
-5. `create app`
+4. `create app`
 
-6. After creating the app you'll get a client identifier
+5. After creating the app you'll get a client identifier
 
-7. Enter it in the "Reddit API Key" in the settings.
-
-8. It currently works without Imgur settings.
+6. Enter it in the "Reddit API Key" in the Apollo app settings
+   (Apollo > Settings > General > Custom API)
+<img src="images/redditAPI.PNG">
 
 ## Imgur Settings
-**Only required if you'll upload pics to your account. Otherwise just use mine: 29ddc3cac7f06e2**
+**Apollo currently works without Imgur settings. Only required if you'll upload pics to your account.**
 
-1. If you do not have an Imgur account, please create one:  
-   https://imgur.com/
+1. Sign into your imgur account (on desktop) and go here:
+   [https://api.imgur.com/oauth2/addclient](https://api.imgur.com/oauth2/addclient)
 
-2. After creating an account, create an app from the following page  
-   https://api.imgur.com/oauth2/addclient
+2. Fill in the fields
+	* Application name: Use whatever
+	* Authorization type: Choose `OAuth 2 authorization without a callback URL`
+	* Email: Use your email
+	* Description: Use whatever
 
-3. Authorization type: is OK with "OAuth 2 authorization without a callback URL
+3. `submit`
 
-4. Fill in the other fields to get a "Client ID".
-  
-   https://imgur.com/account/settings/apps  
-   You can also check the Client ID from the above link if you are logged in.
+4. After creating the app you'll get a client identifier "Client ID".
 
-5. Enter it in the "Imgur API Key" in the settings.
-
-  Added ability to upload and delete images to Imgur.
-  Multiple images (album creation) fails at first but works the next time.
+5. Enter it in the "Imgur API Key" in the Apollo app settings.
+   (Apollo > Settings > General > Custom API)
 
 # From 
 
