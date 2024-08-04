@@ -40,7 +40,7 @@
 On your device, browse to the Releases section (on the right) for Latest install URL or click below to be redirected:\
 **Only works if device's UDID is registered with me.**
 
-[Laetst Signed Install URL](https://github.com/penguicky/Sideload/releases/latest)
+[Latest Signed Install URL](https://github.com/penguicky/Sideload/releases/latest)
 
 ## Reddit Settings
 
