@@ -16,6 +16,30 @@
 # Original Tweak 
 <a href="https://github.com/JeffreyCA/Apollo-ImprovedCustomApi"><img src="https://github.com/Balackburn/Apollo/assets/93828569/f481caff-48ce-4ab0-af99-11445d6a7745" width="200"></a>
 
+## Device Preparation
+
+### Place Device into Developer Mode
+
+1. Settings > Privacy & Security > Developer Mode (Bottom) 
+2. Set to On
+3. Restart
+4. "Ready to Enable Developer Mode" Screen
+5. Swipe Up to Continue and Enable
+6. Enter Passcode
+7. Device will restart
+
+### Register UDID
+
+1. Connect device to Mac and allow Data Access
+2. Open Finder and Select your device (on the left side)
+3. Click under the device's name until UDID shows up
+4. Copy UDID and send it to me
+
+## For Sideloading
+
+Browse to the below url on your phone's browser and install:
+
+https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/20240804232314401
 
 ## Reddit Settings
 
@@ -56,12 +80,6 @@
 
   Added ability to upload and delete images to Imgur
   Multiple images (album creation) fails at first but works the next time.
-
-## For Sideloading
-
-Browse to the below url on your phone's browser and install:
-
-https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/20240804232314401
 
 ## Description page
 [ApolloPatcher | ichitaso's Repository](https://cydia.ichitaso.com/depiction/apollopatcher.html)
