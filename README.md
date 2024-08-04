@@ -34,7 +34,7 @@
 
 ## For Sideloading
 
-Browse to the below url on your phone's browser and install:
+Browse to the below url on your device's browser and install:
 
 https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/20240804232314401
 
