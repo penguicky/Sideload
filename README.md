@@ -30,15 +30,17 @@
 1. Connect device to Mac and allow Data Access
 2. Open Finder and Select your device (on the left side)
 3. Click under the device's name until UDID shows up
-<img src="images/UDID.png">
+
+	<img src='https://github.com/penguicky/Sideload/blob/main/images/UDID.png?raw=true' alt='Finder UDID Location' width="500">
+
 4. Copy UDID and send it to me
 
 ## Sideloading Apollo
 
-Browse to the below url on your device's browser and install:
+Browse to the below url on your device's browser and install:\
 **Only works if device's UDID is registered with me**
 
-https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/20240804232314401
+[https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/20240804232314401](https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/20240804232314401)
 
 ## Reddit Settings
 
@@ -51,14 +53,14 @@ https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/202408
 	* description: Use whatever
 	* about url: Use whatever
 	* redirect uri: **`apollo://reddit-oauth`**
-4. `create app`
+4. Click `create app`
 
 5. After creating the app you'll get a client identifier
 
-6. Enter it in the "Reddit API Key" in the Apollo app settings<br>
+6. Enter it in the "Reddit API Key" in the Apollo app settings\
    (Apollo > Settings > General > Custom API)
 
-<img src="images/redditAPI.png">
+	<img src='https://github.com/penguicky/Sideload/blob/main/images/redditAPI.png?raw=true' alt='Apollo Reddit Api Location' width="300">
 
 ## Imgur Settings
 **Apollo currently works without Imgur settings. Only required if you'll upload pics to your account.**
@@ -72,15 +74,15 @@ https://ipa.ipasign.cc:2052/download/4762b9df-8ce0-3984-05f9-815dc6c8ed31/202408
 	* Email: Use your email
 	* Description: Use whatever
 
-3. `submit`
+3. Click `submit`
 4. After creating the app you'll get a client identifier "Client ID"
-5. Enter it in the "Imgur API Key" in the Apollo app settings<br>
+5. Enter it in the "Imgur API Key" in the Apollo app settings\
    (Apollo > Settings > General > Custom API)
 
-<img src="images/imgurAPI.png">
+	<img src='https://github.com/penguicky/Sideload/blob/7dbbed2f47d57e9eecea48ecd8657f6799d57ec5/images/imgurAPI.png?raw=true' alt="Apollo Imgur Api Location" width="300">
 
 # Credits 
 
-https://github.com/Balackburn/Apollo<br>
-https://github.com/JeffreyCA/Apollo-ImprovedCustomApi<br>
+https://github.com/Balackburn/Apollo\
+https://github.com/JeffreyCA/Apollo-ImprovedCustomApi\
 https://apolloapp.io/
