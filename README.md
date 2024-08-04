@@ -83,6 +83,6 @@ Browse to the below url on your device's browser and install:\
 
 # Credits 
 
-https://github.com/Balackburn/Apollo\
-https://github.com/JeffreyCA/Apollo-ImprovedCustomApi\
-https://apolloapp.io/
+[Balackburn](https://github.com/Balackburn/Apollo)\
+[JeffreyCA](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi)\
+[Apollo](https://apolloapp.io/)
