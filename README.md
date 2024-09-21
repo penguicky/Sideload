@@ -1,6 +1,6 @@
-## Device Preparation
+# Device Preparation
 
-### Place Device into Developer Mode
+## Place Device into Developer Mode
 
 1. Settings > Privacy & Security > Developer Mode (Bottom) 
 2. Set to On
@@ -10,7 +10,7 @@
 6. Enter Passcode
 7. Device will restart
 
-### Register UDID
+## Register UDID
 
 1. Connect device to Mac and allow Data Access
 2. Open Finder and Select your device (on the left side)
@@ -21,7 +21,7 @@
 4. Copy UDID and send it to me
 
 
-
+# Apollo
 <p align="center">
   <img src="https://github.com/Balackburn/Apollo/assets/93828569/532f0b7e-8c06-483c-9d04-8b84ada7b972" alt="Apollo for Reddit Banner" />
 </p>
