@@ -37,13 +37,14 @@
 
 ## Sideloading YTLitePlus
 
-On your device, browse to the Releases section (on the right) for Latest install URL or click below to be redirected:\
+On your device, in safari, click below to sideload (install) YTLitePlus. The latest sideload URL and release notes are in the Releases or click below to be redirected.
+
 **Only works if device's UDID is registered with me.**
 
 [Click to install YTLitePlus](https://ipa.ipasign.cc:2052/download/684a85a5-4195-0e55-3fe8-813357ceed95/20240921221851975)
 &nbsp;
 
-[Latest Signed Install URL](https://github.com/penguicky/Sideload/releases/latest)
+[Release: v19.34.2](https://github.com/penguicky/Sideload/releases/latest)
 
 
 # Apollo
@@ -65,10 +66,14 @@ On your device, browse to the Releases section (on the right) for Latest install
 
 ## Sideloading Apollo
 
-On your device, browse to the Releases section (on the right) for Latest install URL or click below to be redirected:\
+On your device, in safari, click below to sideload (install) Apollo. The latest sideload URL and release notes are in the Releases or click below to be redirected.
+
 **Only works if device's UDID is registered with me.**
 
-[Latest Signed Install URL](https://github.com/penguicky/Sideload/releases/latest)
+[Click to install Apollo](https://ipa.ipasign.cc:2052/download/dbd54961-e3e6-d9ae-0d72-60d932e27916/20240921124932979)
+&nbsp;
+
+[Release: v1.15.11](https://github.com/penguicky/Sideload/releases/latest)
 
 ## Reddit Settings
 
