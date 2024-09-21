@@ -41,10 +41,10 @@ On your device, in safari, click below to sideload (install) YTLitePlus. The lat
 
 **Only works if device's UDID is registered with me.**
 
-[Click to install YTLitePlus](https://github.com/penguicky/Sideload/releases/tag/v19.34.2-5.0.1)
+[Click to install YTLitePlus](https://ipa.ipasign.cc:2052/download/684a85a5-4195-0e55-3fe8-813357ceed95/20240921221851975)
 &nbsp;
 
-[Release: v19.34.2](https://github.com/penguicky/Sideload/releases/latest)
+[Release: v19.34.2](https://github.com/penguicky/Sideload/releases/tag/v19.34.2-5.0.1)
 
 
 # Apollo
