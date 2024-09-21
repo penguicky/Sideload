@@ -19,6 +19,19 @@
 	<img src='https://github.com/penguicky/Sideload/blob/main/images/UDID.png?raw=true' alt='Finder UDID Location' width="500">
 
 4. Copy UDID and send it to me
+# YTLitePLus
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
+</p>
+
+[![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-blue.svg)](https://developer.apple.com/iphone/index.action)
+![Release](https://img.shields.io/github/downloads/Balackburn/YTLitePlus/total)
+![GitHub issues](https://img.shields.io/github/issues-raw/Balackburn/YTLitePlus)
+
+<a href="https://tinyurl.com/YTLiteAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore.png" height="70"></a>
+&nbsp;
+<a href="https://balackburn.github.io/YTLitePlus"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Website.png" height="70"></a>
+&nbsp;
 
 
 # Apollo
