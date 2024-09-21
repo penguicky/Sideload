@@ -20,7 +20,7 @@ Prepare and register your device to enable sideloading YTLitePLus or Apollo
 	<img src='https://github.com/penguicky/Sideload/blob/main/images/UDID.png?raw=true' alt='Finder UDID Location' width="500">
 
 4. Copy UDID and send it to me
-# YTLitePLus
+# YTLitePlus
 <p align="center">
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
