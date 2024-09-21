@@ -98,6 +98,50 @@ On your device, browse to the Releases section (on the right) for Latest install
 	<img src='https://github.com/penguicky/Sideload/blob/7dbbed2f47d57e9eecea48ecd8657f6799d57ec5/images/imgurAPI.png?raw=true' alt="Apollo Imgur Api Location" width="300">
 
 # Credits 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/dayanch96"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/dayanch96.png" width="100px;" alt="dayanch96"/></a></td>
+    <td align="center"><a href="https://github.com/Balackburn"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/Balackburn.png" width="100px;" alt="Balackburn"/></a></td>
+    <td align="center"><a href="https://github.com/arichornloverALT"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/arichornloverALT.png" width="100px;" alt="arichornloverALT"/></a></td>
+    <td align="center"><a href="https://github.com/PoomSmart"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/PoomSmart.png" width="100px;" alt="PoomSmart"/></a></td>
+    <td align="center"><a href="https://github.com/qnblackcat"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/qnblackcat.png" width="100px;" alt="qnblackcat"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SKEIDs"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/SKEIDs.png" width="100px;" alt="SKEIDs"/></a></td>
+    <td align="center"><a href="https://github.com/asdfzxcvbn"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/asdfzxcvbn.png" width="100px;" alt="asdfzxcvbn"/></a></td>
+    <td align="center"><a href="https://github.com/matt911"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/matt911.png" width="100px;" alt="matt911"/></a></td>
+    <td align="center"><a href="https://github.com/bhackel"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/bhackel.png" width="100px;" alt="bhackel"/></a></td>
+    <td align="center"><a href="https://github.com/AlexInABox"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/AlexInABox.png" width="100px;" alt="AlexInABox"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Glenta"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/Glenta.png" width="100px;" alt="Glenta"/></a></td>
+    <td align="center"><a href="https://github.com/gototheskinny"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/gototheskinny.png" width="100px;" alt="gototheskinny"/></a></td>
+    <td align="center"><a href="https://github.com/MrAlucardDante"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/MrAlucardDante.png" width="100px;" alt="MrAlucardDante"/></a></td>
+    <td align="center"><a href="https://github.com/Galactic-Dev"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/Galactic-Dev.png" width="100px;" alt="Galactic-Dev"/></a></td>
+    <td align="center"><a href="https://github.com/AhmedBafkir"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/AhmedBafkir.png" width="100px;" alt="AhmedBafkir"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/MiRO92"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/MiRO92.png" width="100px;" alt="MiRO92"/></a></td>
+    <td align="center"><a href="https://github.com/ichitaso"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/ichitaso.png" width="100px;" alt="ichitaso"/></a></td>
+    <td align="center"><a href="https://github.com/Deci8BelioS"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/Deci8BelioS.png" width="100px;" alt="Deci8BelioS"/></a></td>
+    <td align="center"><a href="https://github.com/julioverne"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/julioverne.png" width="100px;" alt="julioverne"/></a></td>
+    <td align="center"><a href="https://github.com/therealFoxster"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/therealFoxster.png" width="100px;" alt="therealFoxster"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Lyvendia"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/Lyvendia.png" width="100px;" alt="Lyvendia"/></a></td>
+    <td align="center"><a href="https://github.com/ssuesskind"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/ssuesskind.png" width="100px;" alt="ssuesskind"/></a></td>
+    <td align="center"><a href="https://github.com/hbang"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/hbang.png" width="100px;" alt="hbang"/></a></td>
+    <td align="center"><a href="https://github.com/level3tjg"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/level3tjg.png" width="100px;" alt="level3tjg"/></a></td>
+    <td align="center"><a href="https://github.com/zSaaiq"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/zSaaiq.png" width="100px;" alt="zSaaiq"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ISnackable"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/ISnackable.png" width="100px;" alt="ISnackable"/></a></td>
+    <td align="center"><a href="https://github.com/VictorxD70"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/VictorxD70.png" width="100px;" alt="VictorxD70"/></a></td>
+    <td align="center"><a href="https://github.com/Macleykun"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/Macleykun.png" width="100px;" alt="Macleykun"/></a></td>
+    <td align="center"><a href="https://github.com/BandarHL"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/BandarHL.png" width="100px;" alt="BandarHL"/></a></td>
+    <td align="center"><a href="https://github.com/CokePokes"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/CokePokes.png" width="100px;" alt="CokePokes"/></a></td>
+  </tr>
+</table>
 
 [Balackburn](https://github.com/Balackburn/Apollo)\
 [JeffreyCA](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi)\
