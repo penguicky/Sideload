@@ -48,7 +48,7 @@
 <a href="https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2FBalackburn%2FApollo%2Fmain%2Fapps.json"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/altsource.by.lao.sb.png"
  width="200"></a>
 &nbsp;
-<a href="https://balackburn.github.io/Apollo/apps.json"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/URL.png" width="200"></a>
+
 
 
 ## Sideloading Apollo
