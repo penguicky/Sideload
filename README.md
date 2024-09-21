@@ -34,6 +34,15 @@
 &nbsp;
 
 
+
+## Sideloading YTLitePlus
+
+On your device, browse to the Releases section (on the right) for Latest install URL or click below to be redirected:\
+**Only works if device's UDID is registered with me.**
+
+[Latest Signed Install URL](https://github.com/penguicky/Sideload/releases/latest)
+
+
 # Apollo
 <p align="center">
   <img src="https://github.com/Balackburn/Apollo/assets/93828569/532f0b7e-8c06-483c-9d04-8b84ada7b972" alt="Apollo for Reddit Banner" />
