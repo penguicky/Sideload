@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Balackburn/Apollo/assets/93828569/532f0b7e-8c06-483c-9d04-8b84ada7b972" alt="Apollo for Reddit Banner" />
-</p>
-
-[![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-blue.svg)](https://developer.apple.com/iphone/index.action)
-![Release](https://img.shields.io/github/downloads/Balackburn/Apollo/total)
-![GitHub issues](https://img.shields.io/github/issues-raw/Balackburn/Apollo)
-
-<a href="https://tinyurl.com/ApolloAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/Altstore.png" width="200"></a>
-&nbsp;
-<a href="https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2FBalackburn%2FApollo%2Fmain%2Fapps.json"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/altsource.by.lao.sb.png"
- width="200"></a>
-&nbsp;
-<a href="https://balackburn.github.io/Apollo/apps.json"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/URL.png" width="200"></a>
-
 ## Device Preparation
 
 ### Place Device into Developer Mode
@@ -34,6 +19,24 @@
 	<img src='https://github.com/penguicky/Sideload/blob/main/images/UDID.png?raw=true' alt='Finder UDID Location' width="500">
 
 4. Copy UDID and send it to me
+
+
+
+<p align="center">
+  <img src="https://github.com/Balackburn/Apollo/assets/93828569/532f0b7e-8c06-483c-9d04-8b84ada7b972" alt="Apollo for Reddit Banner" />
+</p>
+
+[![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-blue.svg)](https://developer.apple.com/iphone/index.action)
+![Release](https://img.shields.io/github/downloads/Balackburn/Apollo/total)
+![GitHub issues](https://img.shields.io/github/issues-raw/Balackburn/Apollo)
+
+<a href="https://tinyurl.com/ApolloAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/Altstore.png" width="200"></a>
+&nbsp;
+<a href="https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2FBalackburn%2FApollo%2Fmain%2Fapps.json"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/altsource.by.lao.sb.png"
+ width="200"></a>
+&nbsp;
+<a href="https://balackburn.github.io/Apollo/apps.json"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/URL.png" width="200"></a>
+
 
 ## Sideloading Apollo
 
