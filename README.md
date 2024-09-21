@@ -1,4 +1,5 @@
 # Device Preparation
+Prepare and register your device to enable sideloading YTLitePLus or Apollo
 
 ## Place Device into Developer Mode
 
