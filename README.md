@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
 
-[![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-blue.svg)](https://developer.apple.com/iphone/index.action)
+[![Platform](http://img.shields.io/badge/platform-iOS/iPadOS-blue.svg)](https://developer.apple.com/iphone/index.action)
 ![Release](https://img.shields.io/github/downloads/Balackburn/YTLitePlus/total)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Balackburn/YTLitePlus)
 
