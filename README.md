@@ -40,6 +40,9 @@
 On your device, browse to the Releases section (on the right) for Latest install URL or click below to be redirected:\
 **Only works if device's UDID is registered with me.**
 
+[Click to install YTLitePlus](https://ipa.ipasign.cc:2052/download/684a85a5-4195-0e55-3fe8-813357ceed95/20240921221851975)
+&nbsp;
+
 [Latest Signed Install URL](https://github.com/penguicky/Sideload/releases/latest)
 
 
