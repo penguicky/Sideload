@@ -28,9 +28,9 @@
 ![Release](https://img.shields.io/github/downloads/Balackburn/YTLitePlus/total)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Balackburn/YTLitePlus)
 
-<a href="https://tinyurl.com/YTLiteAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore.png" height="70"></a>
+<a href="https://tinyurl.com/YTLiteAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/Altstore.png" width="200"></a>
 &nbsp;
-<a href="https://balackburn.github.io/YTLitePlus"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Website.png" height="70"></a>
+<a href="https://altsource.by.lao.sb/browse/?source=https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Altstore/altsource.by.lao.sb.png" width="200"></a>
 &nbsp;
 
 
