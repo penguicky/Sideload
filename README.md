@@ -160,7 +160,3 @@ On your device, in safari, click below to sideload (install) Apollo. The latest 
     <td align="center"><a href="https://github.com/CokePokes"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Credits/CokePokes.png" width="100px;" alt="CokePokes"/></a></td>
   </tr>
 </table>
-
-[Balackburn](https://github.com/Balackburn/Apollo)\
-[JeffreyCA](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi)\
-[Apollo](https://apolloapp.io/)
