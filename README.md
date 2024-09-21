@@ -73,7 +73,7 @@ On your device, in safari, click below to sideload (install) Apollo. The latest 
 [Click to install Apollo](https://ipa.ipasign.cc:2052/download/dbd54961-e3e6-d9ae-0d72-60d932e27916/20240921124932979)
 &nbsp;
 
-[Release: v1.15.11](https://github.com/penguicky/Sideload/releases/latest)
+[Release: v1.15.11](https://github.com/penguicky/Sideload/releases/tag/v1.15.11-1.1.2)
 
 ## Reddit Settings
 
